@@ -8,3 +8,9 @@ This part is the C++ code only for the classification and regression tasks. The 
 
 We will release the code when the paper is accepted.
 Harley@Hong Kong 8/31/2017
+
+
+
+Add a Rotation Forest algorithm (RotationForest_Experiments_For_JMPF_20180316.7z) project which can generate experiments for the JMPF paper. The Rotation Forest python project is from: https://github.com/borjaayerdi/RotationForest
+Harley@Hong Kong 3/16/2018
+
